@@ -1,6 +1,4 @@
-// CS449 ASSIGNMENT 1 BlackJack
-// T-TH 4-515
-// Wonsun 
+// Blackjack
 
 #include <stdio.h>
 #include <string.h>
