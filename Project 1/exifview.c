@@ -1,6 +1,4 @@
-// CS449 ASSIGNMENT 1 Exif viewer
-// T-TH 4-515
-// Wonsun 
+// Exif Viewer
 
 
 #include <stdio.h>
